@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env.local
+.vercel/
+coverage/
+*.tsbuildinfo
+
+# Documentos financeiros originais são privados e não devem ser versionados.
+historico/
+*.pdf
+*.xlsx
+
+# Configuração local de skills do agente.
+.agents/
+skills-lock.json
+
